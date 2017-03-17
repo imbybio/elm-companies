@@ -30,6 +30,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [imby.bio](http://imby.bio/)
   ([Gitlab](https://gitlab.com/imby.bio), [GitHub](https://github.com/imbybio/)) -
   imby.bio helps individuals bring nature back in to their urban environment.
+  The company is based in London, UK and uses Elm to deliver their web app.
 
 
 ## Contributing
